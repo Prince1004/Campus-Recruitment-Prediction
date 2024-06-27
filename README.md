@@ -15,7 +15,7 @@ Detailed explanation of features and data type
 ![image](https://github.com/Prince1004/Campus-Recruitment-Prediction/assets/142179221/7286c7d7-a363-492e-81b5-5b58e5861260)
 
 
-Model Performance Comparision
+Models Used
 
 Logistic Regression
 
@@ -31,7 +31,7 @@ k-Nearest Neighbour (KNN)
 
 Gradient Boosting
 
-
+Performance Comparision
 
 ![image](https://github.com/Prince1004/Campus-Recruitment-Prediction/assets/142179221/1327aa9f-1902-4b58-b9e2-4b3a1087a7c8)
 

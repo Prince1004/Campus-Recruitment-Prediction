@@ -10,16 +10,28 @@ Data set
 Please find the attahced Placement_Data_Full_Class.csv file 
 
 Detailed explanation of features and data type
+
+
 ![image](https://github.com/Prince1004/Campus-Recruitment-Prediction/assets/142179221/7286c7d7-a363-492e-81b5-5b58e5861260)
 
 
 Model Performance Comparision
 
 Logistic Regression
+
+
 Random Forest
+
+
 Support Vector Machine (SVM)
+
+
 k-Nearest Neighbour (KNN)
+
+
 Gradient Boosting
+
+
 
 ![image](https://github.com/Prince1004/Campus-Recruitment-Prediction/assets/142179221/1327aa9f-1902-4b58-b9e2-4b3a1087a7c8)
 
